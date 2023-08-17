@@ -1,6 +1,6 @@
 namespace Application.Features.Brands.Constants;
 
-public class BrandsMessages
+public static class BrandsMessages
 {
-    
+    public const string BrandNameExists = "Brand name exxists";
 }
